@@ -113,7 +113,7 @@ let HTML = `<!DOCTYPE html>
     <meta name="keywords" content="chatgpt, duckgpt, duckduckgo, AI" />
     <meta property="og:image" content="${CONFIG.resources.ogcover}"> 
     <meta name="author" content="execal">
-    <title>DuckGPT Chat</title>
+    <title>NGAWANGKONG</title>
     <meta charset="UTF-8" />
     
     <style>
